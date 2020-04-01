@@ -1,0 +1,40 @@
+body {
+    background:#E8E8E8;
+}
+table {
+  margin-top: 30px;
+  width: 100%;
+}
+
+td {
+  padding: 15px;
+}
+
+tr {
+  height: 50px;
+  border-bottom:  1px solid lightgrey;
+}
+
+.content {
+    margin-left: 20px;
+    background: #FFFFFF;
+    padding: 0 15px 0 15px;
+    border-left: 0.5px solid #D3D3D3;
+    border-right: 0.5px solid #D3D3D3;
+    border-bottom: 0.5px solid #D3D3D3;
+    border-radius: 0 5px 5px 5px;
+    min-height: 260px;
+    width: 480px;
+}
+
+.town {
+  color: chocolate;
+  background: lightgrey;
+  border-radius: 6px;
+  border: solid 0.5px lightgrey;
+}
+
+
+.points {
+  background-color: lightgray;
+}
